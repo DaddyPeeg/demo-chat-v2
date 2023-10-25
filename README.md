@@ -1,3 +1,4 @@
-# Demo
+# Demo of Chat App
 
-Some description
+This chat app using websocket
+and google firebase.
