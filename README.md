@@ -1,4 +1,4 @@
 # Demo of Chat App
 
-This chat app using websocket
+This chat app is using websocket
 and google firebase.
