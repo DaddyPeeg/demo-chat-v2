@@ -6,3 +6,7 @@ and google firebase.
 ## Please be guided
 
 This is not an official app
+
+## Local Development
+
+1. Open index.html in your browser
