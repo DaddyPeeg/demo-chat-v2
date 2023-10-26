@@ -11,3 +11,6 @@ This is not an official app
 
 1. Open index.html in your browser
 2. dadadada
+3. aljsd;ja
+4. apksjdpjasd
+5. pajskdlp;ajslp;djkasdasd
