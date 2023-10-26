@@ -11,5 +11,3 @@ This is not an official app
 
 1. Open index.html in your browser
 2. dadadada
-3. 24125125
-4. 241124124124
